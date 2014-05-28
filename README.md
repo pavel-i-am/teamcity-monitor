@@ -20,5 +20,5 @@ Server side
 
 Client side
 ===========
-- Open web browser and open http://127.0.0.1:8000 url to see your builds status.
+- Open http://127.0.0.1:8000 url in web browser to see your builds status.
 
